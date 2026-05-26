@@ -9,11 +9,13 @@ If true, print "EVEN".
 Else, print "ODD".
 End the program.
 🧾 Program
+```
 a=int(input())
 if(a%2==0):
     print("EVEN")
 else:
     print("ODD")
+```
 Output
 <img width="568" height="447" alt="image" src="https://github.com/user-attachments/assets/33072133-d151-4db4-a536-61588006fe07" />
 
